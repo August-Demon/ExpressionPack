@@ -1,0 +1,11 @@
+E:\WPF学习记录\ExpressionPack\ExpressionPack\bin\Debug\netstandard2.1\ExpressionPack.deps.json
+E:\WPF学习记录\ExpressionPack\ExpressionPack\bin\Debug\netstandard2.1\ExpressionPack.dll
+E:\WPF学习记录\ExpressionPack\ExpressionPack\bin\Debug\netstandard2.1\ExpressionPack.pdb
+E:\WPF学习记录\ExpressionPack\ExpressionPack\obj\Debug\netstandard2.1\ExpressionPack.csproj.AssemblyReference.cache
+E:\WPF学习记录\ExpressionPack\ExpressionPack\obj\Debug\netstandard2.1\ExpressionPack.GeneratedMSBuildEditorConfig.editorconfig
+E:\WPF学习记录\ExpressionPack\ExpressionPack\obj\Debug\netstandard2.1\ExpressionPack.AssemblyInfoInputs.cache
+E:\WPF学习记录\ExpressionPack\ExpressionPack\obj\Debug\netstandard2.1\ExpressionPack.AssemblyInfo.cs
+E:\WPF学习记录\ExpressionPack\ExpressionPack\obj\Debug\netstandard2.1\ExpressionPack.csproj.CoreCompileInputs.cache
+E:\WPF学习记录\ExpressionPack\ExpressionPack\obj\Debug\netstandard2.1\ExpressionPack.sourcelink.json
+E:\WPF学习记录\ExpressionPack\ExpressionPack\obj\Debug\netstandard2.1\ExpressionPack.dll
+E:\WPF学习记录\ExpressionPack\ExpressionPack\obj\Debug\netstandard2.1\ExpressionPack.pdb

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExpressionPack</id>
+    <version>1.0.0</version>
+    <authors>ExpressionPack</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="9e0a8b71e72dee8caa892fe2018cdbe2e8f18a3e" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.2">
+        <dependency id="System.Buffers" version="4.6.1" exclude="Build,Analyzers" />
+        <dependency id="System.Memory" version="4.6.3" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.CompilerServices.Unsafe" version="6.1.2" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Buffers" version="4.6.1" exclude="Build,Analyzers" />
+        <dependency id="System.Memory" version="4.6.3" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.CompilerServices.Unsafe" version="6.1.2" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="System.Buffers" version="4.6.1" exclude="Build,Analyzers" />
+        <dependency id="System.Memory" version="4.6.3" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.CompilerServices.Unsafe" version="6.1.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\WPF学习记录\ExpressionPack\ExpressionPack\bin\Debug\net462\ExpressionPack.dll" target="lib\net462\ExpressionPack.dll" />
+    <file src="E:\WPF学习记录\ExpressionPack\ExpressionPack\bin\Debug\netstandard2.0\ExpressionPack.dll" target="lib\netstandard2.0\ExpressionPack.dll" />
+    <file src="E:\WPF学习记录\ExpressionPack\ExpressionPack\bin\Debug\netstandard2.1\ExpressionPack.dll" target="lib\netstandard2.1\ExpressionPack.dll" />
+  </files>
+</package>

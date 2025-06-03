@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ar+ji1FyQGk=",
+  "success": true,
+  "projectFilePath": "E:\\WPF学习记录\\ExpressionPack\\ExpressionPack_8.0\\ExpressionPack_8.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chenyongqing\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\chenyongqing\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
+    "C:\\Users\\chenyongqing\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\chenyongqing\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
